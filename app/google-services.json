@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481486693311",
+    "firebase_url": "https://pictionis-5fec9.firebaseio.com",
+    "project_id": "pictionis-5fec9",
+    "storage_bucket": "pictionis-5fec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481486693311:android:f1f36bb1d432510c1df70a",
+        "android_client_info": {
+          "package_name": "com.idvmob4.pictionis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481486693311-g2hr6eipm520d2d6cqd55ehvuu8nnhs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJwHpFGtDRpvLJG6JqyqxKmmZl5dX3uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481486693311-g2hr6eipm520d2d6cqd55ehvuu8nnhs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
